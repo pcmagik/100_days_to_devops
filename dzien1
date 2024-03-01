@@ -1,0 +1,46 @@
+Tydzień 1: DevOps & Git 🚀
+
+Dzień 1: 
+
+Wprowadzenie do DevOps
+DevOps to kultura współpracy między 'development' i 'operations', mająca na celu szybsze dostarczanie oprogramowania. 
+
+Kluczowe aspekty to:
+Automatyzacja 🤖: Klucz do szybkiego dostarczania.
+CI/CD 🔄: Automatyczne budowanie, testowanie i wdrażanie.
+Monitorowanie 🔍: Szybkie wykrywanie problemów.
+Współpraca 👥: Bliska współpraca między zespołami.
+Optymalizacja ⚙️: Ciągłe doskonalenie procesów.
+
+Korzyści:
+Szybsze dostarczanie 🚀
+Większa stabilność 🛠️
+Lepsza jakość produktu 🏆
+Większa efektywność 💡
+Zwiększona satysfakcja klienta 😊
+DevOps to przede wszystkim ludzie i kultura współpracy. 🌱
+
+Wprowadzenie do Git
+Git to niezbędne narzędzie w DevOps, umożliwiające efektywne zarządzanie kodem.
+
+
+Kroki:
+
+Instalacja Git: Pobierz z git-scm.com.
+Konfiguracja Git:
+git config --global user.name "Twoje Imię"
+git config --global user.email "twój.email@example.com"
+
+Utworzenie repozytorium:
+git init <nazwa-repozytorium>
+
+Pierwszy commit:
+echo "# 100 dni do DevOps" >> README.md
+git add README.md
+git commit -m "Dodaj README.md"
+
+Pierwszy push:
+git remote add origin <adres_repozytorium>
+git push -u origin master
+
+🎉 Gratulacje! Rozpocząłeś swoją podróż z Git i DevOps!
