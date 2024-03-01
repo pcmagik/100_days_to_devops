@@ -36,7 +36,7 @@ git init <nazwa-repozytorium>
 
 Pierwszy commit:
 echo "# 100 dni do DevOps" >> README.md
-git add README.md
+git add README.md lub git add .
 git commit -m "Dodaj README.md"
 
 Pierwszy push:
