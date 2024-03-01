@@ -5,6 +5,25 @@ Dzień 1:
 Wprowadzenie do DevOps
 DevOps to kultura współpracy między 'development' i 'operations', mająca na celu szybsze dostarczanie oprogramowania. 
 
+Zadania Zespołów:
+
+Zespół Rozwoju (Dev):
+    Kodowanie: Tworzenie i testowanie nowych funkcji.
+    CI: Automatyczne budowanie i testowanie kodu.
+    Wersjonowanie: Zarządzanie zmianami w kodzie przy użyciu Git.
+
+Zespół Operacji (Ops):
+    Infrastruktura: Wdrażanie i utrzymanie serwerów i baz danych.
+    Monitorowanie: Śledzenie wydajności i logów.
+    Bezpieczeństwo: Ochrona aplikacji i danych.
+    CD: Automatyzacja wdrażania aplikacji.
+
+Współpraca:
+Ciągła dostawa: Automatyzacja od kodowania po wdrożenie.
+Optymalizacja: Usprawnianie procesów.
+Rozwiązywanie problemów: Szybka identyfikacja i naprawa błędów.
+Innowacje: Poszukiwanie nowych technologii i rozwiązań.
+
 Kluczowe aspekty to:
 Automatyzacja 🤖: Klucz do szybkiego dostarczania.
 CI/CD 🔄: Automatyczne budowanie, testowanie i wdrażanie.
