@@ -31,7 +31,7 @@ Konfiguracja Chmury: Utworzenie instancji i konfiguracja sieci w Oracle Cloud.
 Integracja: Skrypt oracle-cloud-setup.sh dla automatycznej konfiguracji.
 
 
-#### Kroki:
+### Kroki:
 
 #### Proxmox VM Setup:
 ```
