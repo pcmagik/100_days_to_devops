@@ -9,13 +9,13 @@ Proxmox 🖥️: Dla wirtualizacji i zarządzania VM.
 Docker 🐳: Do konteneryzacji i izolacji aplikacji.
 Oracle Free Tier ☁️: Dostęp do chmury dla dodatkowych zasobów i testów.
 
-####Automatyzacja z Bash 🚀
+#### Automatyzacja z Bash 🚀
 Tworzymy skrypty Bash dla:
 Cloud-init: Szybkie tworzenie i konfiguracja VM w Proxmox.
 Instalacja Dockera: Automatyczne ustawienie Dockera na nowych maszynach.
 
 
-#### Zadania:
+### Zadania:
 
 #### Proxmox 🖥️
 VM Setup: Utworzenie skryptu cloud-init dla szybkiego rozruchu VM.
@@ -34,11 +34,13 @@ Integracja: Skrypt oracle-cloud-setup.sh dla automatycznej konfiguracji.
 #### Kroki:
 
 #### Proxmox VM Setup:
+```
 scripts/cloudinit-proxmox-vm-setup.sh
-
+```
 #### Instalacja Dockera:
+```
 scripts/install-docker.sh
-
+```
 
 #### 🛠️ Te narzędzia i skrypty pozwalają szybko przygotować środowisko do testowania i izolacji aplikacji, co jest kluczowe w procesie DevOps.
 
