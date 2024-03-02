@@ -45,9 +45,11 @@ DevOps to przede wszystkim ludzie i kultura współpracy. 🌱
 Git to niezbędne narzędzie w DevOps, umożliwiające efektywne zarządzanie kodem.
 
 
-#### Kroki:
+### Kroki:
+
+**Instalacja Git**: Pobierz z 
 ```
-**Instalacja Git**: Pobierz z [git-scm.com](https://git-scm.com/).
+https://git-scm.com/downloads
 ```
 **Konfiguracja Git**:
 ```
