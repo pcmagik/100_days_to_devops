@@ -77,6 +77,8 @@ git commit -m "Dodaj README.md"
 #### Pierwszy push:
 ```
 git remote add origin <adres_repozytorium>
+```
+```
 git push -u origin master
 ```
 #### 🎉 Gratulacje! Rozpocząłeś swoją podróż z Git i DevOps!
