@@ -52,6 +52,8 @@ Git to niezbędne narzędzie w DevOps, umożliwiające efektywne zarządzanie ko
 **Konfiguracja Git**:
 ```
 git config --global user.name "Twoje Imię"
+```
+```
 git config --global user.email "twój.email@example.com"
 ```
 
@@ -62,9 +64,11 @@ git init <nazwa-repozytorium>
 #### Pierwszy commit:
 ```
 echo "# 100 dni do DevOps" >> README.md 
-
+```
+```
 git add README.md lub git add .
-
+```
+```
 git commit -m "Dodaj README.md" 
 ```
 
