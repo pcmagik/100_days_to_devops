@@ -5,7 +5,7 @@
 ## Wprowadzenie do DevOps
 DevOps to kultura współpracy między 'development' i 'operations', mająca na celu szybsze dostarczanie oprogramowania. 
 
-#### Zadania Zespołów:
+### Zadania Zespołów:
 
 #### Development 🛠️:
 Kodowanie 💻: Tworzenie i testowanie nowych funkcji.
