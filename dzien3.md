@@ -1,8 +1,8 @@
-### Dzień 3: Laboratorium Hardware 🖥️
+# Dzień 3: Laboratorium Hardware 🖥️
 
-**Moc obliczeniowa mojego laboratorium**:
+## **Moc obliczeniowa mojego laboratorium**:
 
-Z dumą prezentuję specyfikacje hardware mojego osobistego laboratorium DevOps, które składa się z 22 jednostek komputerowych, przerobionych na serwery. Oto szczegóły:
+#### Z dumą prezentuję specyfikacje hardware mojego osobistego laboratorium DevOps, które składa się z 22 jednostek komputerowych, przerobionych na serwery. Oto szczegóły:
 
 - **Rdzenie CPU**: 102 rdzeni, zapewniające ogromną moc obliczeniową.
 - **Wątki procesorów**: 148 wątki, umożliwiające efektywne przetwarzanie równoległe.
@@ -39,7 +39,7 @@ Z dumą prezentuję specyfikacje hardware mojego osobistego laboratorium DevOps,
 | 22  | SERVER    | ![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/ru/thumb/c/cb/Raspberry_Pi_Logo.svg/811px-Raspberry_Pi_Logo.svg.png) | Raspberry Pi 4B 4GB | Broadcom BCM2711 | 4       | 4     | Raspberry Pi                 | LPDDR4 4GB                  | 1     | 128            |                  | Broadcom VideoCore VI         | Raspberry Pi Foundation | 15      | TERMINAL            | Wbudowana              | Raspberry               | 30                  | TERMINAL
 
 
-**Anegdota**:
+## **Anegdota**:
 
 Mimo że moje laboratorium może wydawać się przesadą, warto pamiętać, że do nauki DevOps i eksperymentowania z większością technologii wystarczy nawet stary komputer, Raspberry Pi czy jakiś mini PC. Najważniejsze to chęć do nauki i eksploracji! 🚀
 
@@ -68,8 +68,6 @@ Posiadając tak rozbudowane i zaawansowane laboratorium hardware, czuję, że ni
 To zaplecze daje mi wolność do eksperymentowania, testowania w skali, jakiej pragnę, i przede wszystkim - uczenia się z prawdziwych, praktycznych doświadczeń. Nie ma już "co by było, gdybym miał dostęp do...". Teraz odpowiedź brzmi: "Sprawdźmy to!".
 
 W tym środowisku każdy niepowodzenie staje się cenną lekcją, a sukces otwiera drzwi do kolejnych, jeszcze bardziej fascynujących projektów. Jestem przekonany, że dzięki temu laboratorium moja podróż w świat DevOps będzie nie tylko edukacyjna, ale i niezwykle ekscytująca. 🚀
-
-
 
 
 ---
