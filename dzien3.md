@@ -1,6 +1,9 @@
-# Dzień 3: Laboratorium Hardware 🖥️
+# Tydzień 1: DevOps & Git 🚀
 
-## **Moc obliczeniowa mojego laboratorium**:
+
+## Dzień 3: Laboratorium Hardware 🖥️
+
+### **Moc obliczeniowa mojego laboratorium**:
 
 #### Z dumą prezentuję specyfikacje hardware mojego osobistego laboratorium DevOps, które składa się z 22 jednostek komputerowych, przerobionych na serwery. Oto szczegóły:
 
