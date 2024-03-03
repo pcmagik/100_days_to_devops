@@ -9,9 +9,11 @@ Proxmox 🖥️: Dla wirtualizacji i zarządzania VM.
 Docker 🐳: Do konteneryzacji i izolacji aplikacji.
 Oracle Free Tier ☁️: Dostęp do chmury dla dodatkowych zasobów i testów.
 
-#### Automatyzacja z Bash 🚀
-Tworzymy skrypty Bash dla:
+### Automatyzacja z Bash 🚀
+#### Tworzymy skrypty Bash dla:
+
 Cloud-init: Szybkie tworzenie i konfiguracja VM w Proxmox.
+
 Instalacja Dockera: Automatyczne ustawienie Dockera na nowych maszynach.
 
 
