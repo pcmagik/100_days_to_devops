@@ -2,7 +2,7 @@
 
 ## Dzień 1: 
 
-### Wprowadzenie do DevOps
+## Wprowadzenie do DevOps
 DevOps to kultura współpracy między 'development' i 'operations', mająca na celu szybsze dostarczanie oprogramowania. 
 
 #### Zadania Zespołów:
@@ -24,7 +24,7 @@ Optymalizacja ⚙️: Usprawnianie procesów.
 Rozwiązywanie problemów 🧩: Szybka reakcja na wyzwania.
 Innowacje 💡: Poszukiwanie nowych rozwiązań.
 
-#### DevOps to przede wszystkim współpraca 🤝 i płynne granice między zadaniami.
+### DevOps to przede wszystkim współpraca 🤝 i płynne granice między zadaniami.
 
 #### Kluczowe aspekty to:
 Automatyzacja 🤖: Klucz do szybkiego dostarczania.
@@ -41,7 +41,7 @@ Większa efektywność 💡
 Zwiększona satysfakcja klienta 😊
 DevOps to przede wszystkim ludzie i kultura współpracy. 🌱
 
-#### Wprowadzenie do Git
+## Wprowadzenie do Git
 Git to niezbędne narzędzie w DevOps, umożliwiające efektywne zarządzanie kodem.
 
 
