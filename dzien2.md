@@ -6,7 +6,9 @@
 
 #### Dla efektywnego testowania i izolacji, wybieramy:
 Proxmox 🖥️: Dla wirtualizacji i zarządzania VM.
+
 Docker 🐳: Do konteneryzacji i izolacji aplikacji.
+
 Oracle Free Tier ☁️: Dostęp do chmury dla dodatkowych zasobów i testów.
 
 ### Automatyzacja z Bash 🚀
@@ -21,15 +23,18 @@ Instalacja Dockera: Automatyczne ustawienie Dockera na nowych maszynach.
 
 #### Proxmox 🖥️
 VM Setup: Utworzenie skryptu cloud-init dla szybkiego rozruchu VM.
+
 Automatyzacja: Skrypt proxmox-vm-setup.sh do tworzenia i konfiguracji VM.
 
 
 #### Docker 🐳
 Instalacja: Skrypt install-docker.sh do automatycznego ustawienia Dockera.
+
 Konfiguracja: Ustawienie środowiska Docker dla izolacji aplikacji.
 
 #### Oracle Free Tier ☁️
 Konfiguracja Chmury: Utworzenie instancji i konfiguracja sieci w Oracle Cloud.
+
 Integracja: Skrypt oracle-cloud-setup.sh dla automatycznej konfiguracji.
 
 
