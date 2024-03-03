@@ -1,12 +1,18 @@
+### Dzień 3: Laboratorium Hardware 🖥️
+
+**Moc obliczeniowa mojego laboratorium**:
+
+Z dumą prezentuję specyfikacje hardware mojego osobistego laboratorium DevOps, które składa się z 22 jednostek komputerowych, przerobionych na serwery. Oto szczegóły:
+
+- **Rdzenie CPU**: 102 rdzeni, zapewniające ogromną moc obliczeniową.
+- **Wątki procesorów**: 148 wątki, umożliwiające efektywne przetwarzanie równoległe.
+- **Pamięć RAM**: 372 GB, co pozwala na obsługę wielu zadań i procesów jednocześnie.
+- **Przestrzeń dyskowa**: 63,75 TB, kombinacja dysków SSD i HDD, zapewniająca szybki dostęp do danych oraz dużą pojemność magazynową.
+- **Łączność**: Posiadam **3 światłowody** oraz **3 adresy IP publiczne**, co zapewnia wyjątkową łączność i dostępność mojego laboratorium, umożliwiając realizację projektów wymagających wysokiej przepustowości i dostępności zewnętrznej.
 
 
 
-
-
-
-
-
-
+**Specyfikacja sprzętu**:
 |   LP | ROLE      | LOGO                                 | NAME                | CPU               |   CORES |   THREADS | MOTHERBOARD         | MEMORY                     |   Q |   SUM GB | STORAGE                         |   Q.1 | STORAGE.1                     |   Q.2 |   SUM TB | GPU                     | PSU                |   PSU POWER | CASE                | NETWORK              | SSD/HDD CADDY   | SSD/HDD CADDY.1   |
 |-----:|:----------|:-----------------------------------------|:--------------------|:------------------|--------:|----------:|:--------------------|:---------------------------|----:|---------:|:--------------------------------|------:|:------------------------------|------:|---------:|:------------------------|:-------------------|------------:|:--------------------|:---------------------|:----------------|:------------------|
 |    1 | OPNSENSE  | ![OPNsense Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Opnsense-logo.svg/600px-Opnsense-logo.svg.png?20210424075833) | WYSE 5070 EXTENTED  | PENTIUM J5005     |       4 |         4 | DELL WYSE 5070      | SODIMM DDR4 4GB            |   2 |        8 | 64GB                            |     1 | XXX                           |     0 |     0.06 | Intel® UHD Graphics 605 | DELL 130W          |         130 | TERMINAL            | INTEL I350-T2        | nan             | nan               |
@@ -30,3 +36,42 @@
 |   19 | OPENWRT   | ![Logo URL](https://miro.medium.com/v2/resize:fit:493/1*upZ_GGwPKrYm03_q2Q32Gg.png) | HP T620 PLUS        | AMD GX-420CA      |       4 |         4 | HP                  | SODIMM DDR3 4GB            |   2 |        8 | 32                              |     1 | XXX                           |     0 |   nan    | Radeon(tm) HD Graphics  | HP                 |          90 | TERMINAL            | INTEL I350-T2        | nan             | nan               |
 |   20 | NONE       | ![Logo URL](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/480px-HP_logo_2012.svg.png) | HP T730 PLUS        | AMD RX-427BB      |       4 |         4 | HP                  | SODIMM DDR3 8GB            |   2 |       16 | 16                              |     1 | XXX                           |     0 |   nan    | Radeon(tm) HD Graphics  | HP                 |          90 | TERMINAL            | INTEL I350-T4        | nan             | nan               |
 |   21 | SOPHOS    | ![Logo URL](https://firewall.firm.in/wp-content/uploads/2018/10/sophos.png) | Fujitsu Futro S920  | AMD GX-424        |       4 |         4 | FUJITSU             | SODIMM DDR3 8GB            |   2 |       16 | 128                             |     1 | XXX                           |     0 |   nan    | Radeon(tm) HD Graphics  | FUJITSU            |          90 | TERMINAL            | INTEL I350-T2        | nan             | nan               |
+| 22  | SERVER    | ![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/ru/thumb/c/cb/Raspberry_Pi_Logo.svg/811px-Raspberry_Pi_Logo.svg.png) | Raspberry Pi 4B 4GB | Broadcom BCM2711 | 4       | 4     | Raspberry Pi                 | LPDDR4 4GB                  | 1     | 128            |                  | Broadcom VideoCore VI         | Raspberry Pi Foundation | 15      | TERMINAL            | Wbudowana              | Raspberry               | 30                  | TERMINAL
+
+
+**Anegdota**:
+
+Mimo że moje laboratorium może wydawać się przesadą, warto pamiętać, że do nauki DevOps i eksperymentowania z większością technologii wystarczy nawet stary komputer, Raspberry Pi czy jakiś mini PC. Najważniejsze to chęć do nauki i eksploracji! 🚀
+
+Pamiętaj, że DevOps to nie tylko o potężny sprzęt, ale przede wszystkim o umiejętności, praktyki i procesy, które można rozwijać nawet na najskromniejszym sprzęcie. 🌱
+
+
+### Przyszłe Plany dla Laboratorium 🚀
+
+Chociaż moje laboratorium jest już dobrze wyposażone i pełne zaawansowanego sprzętu, warto zaznaczyć, że nie wszystkie serwery są obecnie w pełni wykorzystane. Część z nich czeka na swoją kolej, aby znaleźć zastosowanie w nadchodzących projektach. 
+
+**Rezerwa Mocy**:
+
+Posiadanie niewykorzystanych zasobów daje mi unikalną możliwość szybkiego reagowania na nowe wyzwania i eksplorowania nowych technologii bez konieczności reorganizacji istniejącej infrastruktury. To jak posiadanie asa w rękawie, który może zostać wykorzystany w dowolnym momencie, gdy tylko pojawi się odpowiednia okazja lub potrzeba.
+
+**Oczekiwanie na Projekty**:
+
+Każdy z tych "uśpionych" serwerów ma potencjał, aby w przyszłości stać się kluczowym elementem nowych inicjatyw. Czy to będzie projekt związany z chmurą, konteneryzacją, automatyzacją, czy inną fascynującą dziedziną DevOps, te serwery są gotowe do działania.
+
+Planuję wykorzystać te zasoby do dalszego rozwoju mojego laboratorium i realizacji jeszcze bardziej ambitnych projektów. Z niecierpliwością oczekuję na te nowe wyzwania i możliwości, które przyniesie przyszłość. 🌟
+
+
+### Nieograniczone Możliwości Nauki 🌌
+
+Posiadając tak rozbudowane i zaawansowane laboratorium hardware, czuję, że nie ma już żadnych barier w mojej drodze do nauki i eksploracji świata technologii. Każdy nowy pomysł, każda koncepcja czy technologia, którą chcę zgłębić, znajdzie tutaj swoje miejsce. Od wirtualizacji, przez konteneryzację, aż po złożone klastry obliczeniowe i sieciowe - wszystko jest w zasięgu ręki.
+
+To zaplecze daje mi wolność do eksperymentowania, testowania w skali, jakiej pragnę, i przede wszystkim - uczenia się z prawdziwych, praktycznych doświadczeń. Nie ma już "co by było, gdybym miał dostęp do...". Teraz odpowiedź brzmi: "Sprawdźmy to!".
+
+W tym środowisku każdy niepowodzenie staje się cenną lekcją, a sukces otwiera drzwi do kolejnych, jeszcze bardziej fascynujących projektów. Jestem przekonany, że dzięki temu laboratorium moja podróż w świat DevOps będzie nie tylko edukacyjna, ale i niezwykle ekscytująca. 🚀
+
+
+
+
+---
+
+🔙 [Powrót do głównego indeksu](https://github.com/pcmagik/100_days_to_devops)
