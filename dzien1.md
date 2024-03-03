@@ -51,6 +51,10 @@ Git to niezbędne narzędzie w DevOps, umożliwiające efektywne zarządzanie ko
 ```
 https://git-scm.com/downloads
 ```
+lub
+```
+winget install --id Git.Git -e --source winget
+```
 **Konfiguracja Git**:
 ```
 git config --global user.name "Twoje Imię"
