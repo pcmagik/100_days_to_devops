@@ -25,11 +25,11 @@ Z uwzględnieniem naszego głównego serwera **Ryzen 7 5700X** z **128GB RAM** i
 
 ### Backup:
 - **Proxmox Backup Server**: Dedykowana jednostka.
-- **Specyfikacja**: 4 rdzenie CPU, 8 GB RAM, 500 GB SSD Raid1.
+- **Specyfikacja**: 4 rdzenie CPU, 8 GB RAM, 500 GB SSD RAID 1.
 
 ### Storage:
 - **TrueNAS**: Osobna jednostka.
-- **Specyfikacja**: 4 rdzenie CPU, 8 GB RAM, 500 GB SSD Raid1.
+- **Specyfikacja**: 4 rdzenie CPU, 8 GB RAM, 500 GB SSD RAID 1.
 
 ### Sieć i Bezpieczeństwo 🔒:
 - **VLANy**: HOME (10), IoT (20), GUEST (30), SERWIS (40), HackLab (50).
