@@ -1,48 +1,27 @@
 # Tydzień 1: DevOps & Git 🚀
 
-## Dzień 6: Wprowadzenie do Konteneryzacji z Dockerem 🐳
 
-### Odkrywamy moc konteneryzacji! 🌐
+## 🌿 Dzień 6: Mistrzostwo w Gałęziach Git - Klucz do skutecznej współpracy! 🌿
 
-Dzień 6 naszej podróży "100 dni do DevOps" poświęcamy na zgłębienie tematu konteneryzacji, skupiając się na Dockerze.
+### Pogłębiamy wiedzę na temat Git! 🛠️
 
-### Co to jest Konteneryzacja?
+Szósty dzień naszej serii "100 dni do DevOps" jest poświęcony zaawansowanym technikom pracy z gałęziami w Git - narzędziu, które jest fundamentem dla współpracy w rozwoju oprogramowania.
 
-Konteneryzacja to technologia, która pozwala na izolację aplikacji w kontenerach, ułatwiając ich wdrażanie i skalowanie.
+### Dlaczego gałęzie w Git są tak ważne?
 
-### Pierwsze Kroki z Dockerem:
+Praca z gałęziami (branching) i łączenie ich zmian (merging) to kluczowe umiejętności, które pozwalają na płynną pracę nad różnymi funkcjami i ułatwiają integrację zmian, minimalizując ryzyko konfliktów w kodzie.
 
-1. **Instalacja Docker**: Zacznij od zainstalowania Docker na swoim systemie.
-2. **Tworzenie Dockerfile**: Użyj `Dockerfile` do zdefiniowania środowiska dla Twojej aplikacji.
-    ```Dockerfile
-    FROM node:14
-    WORKDIR /app
-    COPY . /app
-    RUN npm install
-    EXPOSE 3000
-    CMD ["npm", "start"]
-    ```
-3. **Budowanie Obrazu**: Użyj `docker build` do stworzenia obrazu z Twojego `Dockerfile`.
-    ```bash
-    docker build -t moja-aplikacja .
-    ```
-4. **Uruchamianie Kontenera**: Uruchom kontener używając `docker run`.
-    ```bash
-    docker run -d -p 3000:3000 moja-aplikacja
-    ```
+### Zaawansowane Techniki:
 
-### Orkiestracja z Docker Compose:
+- **Strategie Branching**: Naucz się, jak stosować różne strategie pracy z gałęziami, aby optymalizować workflow w zespole.
+- **Merging i Rebase**: Zrozum różnice i naucz się, kiedy najlepiej stosować te techniki.
+- **Git Flow**: Zastosuj tę popularną metodologię pracy z gałęziami, która pomaga w organizacji i zarządzaniu złożonymi projektami.
 
-Użyj Docker Compose do definiowania i uruchamiania wielokontenerowych aplikacji Docker.
+### Warsztaty Praktyczne:
 
-```yaml
-version: '3'
-services:
-  web:
-    build: .
-    ports:
-      - "3000:3000"
-  db:
-    image: postgres
-    environment:
-      POSTGRES_PASSWORD: example
+Przeprowadziliśmy warsztaty, podczas których zastosowaliśmy te techniki w praktycznych scenariuszach. Symulowaliśmy współpracę w zespole i zarządzanie kodem, co pozwoliło na zrozumienie, jak efektywnie stosować te metody w codziennej pracy.
+
+### Dołącz do Nas:
+
+Odkryj, jak zaawansowane funkcje gałęzi w Git mogą wpłynąć na kulturę DevOps i uczynić współpracę bardziej efektywną. To ważny krok w kierunku lepszego zarządzania wersjami i płynnego workflow w projektach.
+
