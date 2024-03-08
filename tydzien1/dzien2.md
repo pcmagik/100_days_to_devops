@@ -42,11 +42,11 @@ Integracja: Skrypt oracle-cloud-setup.sh dla automatycznej konfiguracji.
 
 #### Proxmox VM Setup:
 ```
-scripts/cloudinit-proxmox-vm-setup.sh
+scripts/debian-ubuntu-cloudinit-proxmox-vm-setup.sh
 ```
 #### Instalacja Dockera:
 ```
-scripts/install-docker.sh
+scripts/ubuntu-install-docker.sh
 ```
 
 #### 🛠️ Te narzędzia i skrypty pozwalają szybko przygotować środowisko do testowania i izolacji aplikacji, co jest kluczowe w procesie DevOps.
