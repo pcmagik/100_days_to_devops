@@ -1,7 +1,7 @@
 # Tydzień 1: DevOps & Git 🚀
 
 
-## 🌿 Dzień 6: Mistrzostwo w Gałęziach Git - Klucz do skutecznej współpracy! 🌿
+## Dzień 6: Mistrzostwo w Gałęziach Git - Klucz do skutecznej współpracy! 🌿
 
 ### Pogłębiamy wiedzę na temat Git! 🛠️
 
