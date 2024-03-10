@@ -1,8 +1,8 @@
 # Tydzień 2: Docker & Homelab 🚀
 
-# Dzień 9: Podstawowe Komendy Docker 🐳
+## Dzień 9: Podstawowe Komendy Docker 🐳
 
-## Zarządzanie kontenerami z linii poleceń
+### Zarządzanie kontenerami z linii poleceń
 
 Dzisiaj skupimy się na podstawowych komendach Docker, które są niezbędne do zarządzania kontenerami. Poznanie tych komend pozwoli na efektywne zarządzanie cyklem życia kontenerów.
 
@@ -62,5 +62,6 @@ docker stop my-nginx
 ```
 docker rm my-nginx
 ```
+
 Podsumowanie:
 Znajomość podstawowych komend Docker jest kluczowa dla każdego, kto pracuje z konteneryzacją. Pozwala na szybkie tworzenie, zarządzanie i debugowanie kontenerów, co jest nieocenione w codziennej pracy z aplikacjami. 🚀
