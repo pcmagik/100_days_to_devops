@@ -1,6 +1,6 @@
 # Tydzień 1: DevOps & Git 🚀
 
-## 🔄 Dzień 7: Podsumowanie tygodnia - DevOps i Git w akcji!
+## Dzień 7: Podsumowanie tygodnia - DevOps i Git w akcji!
 
 ### Czas na refleksję! 🤔
 
