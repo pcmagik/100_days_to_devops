@@ -1,6 +1,6 @@
 # Tydzień 1: DevOps & Git 🚀
 
-## Dzień 1: Wprowadzenie do DevOps
+## Dzień 1: Wprowadzenie do DevOps 🛠️
 DevOps to kultura współpracy między 'development' i 'operations', mająca na celu szybsze dostarczanie oprogramowania. 
 
 ### Zadania Zespołów:

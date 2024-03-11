@@ -1,6 +1,6 @@
 # Tydzień 1: DevOps & Git 🚀
 
-## Dzień 2: Środowiska Testowe i Automatyzacja
+## Dzień 2: Środowiska Testowe i Automatyzacja 🖥️
 
 ### Wybór Środowisk Testowych 🌐
 
