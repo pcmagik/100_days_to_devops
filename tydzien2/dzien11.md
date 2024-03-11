@@ -52,4 +52,5 @@ volumes:
   db_data:
 ```
 
+
 Po zdefiniowaniu pliku docker-compose.yml, wystarczy uruchomić komendę docker-compose up w katalogu z tym plikiem, aby rozpocząć działanie środowiska WordPress.
