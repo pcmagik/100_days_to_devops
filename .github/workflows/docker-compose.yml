@@ -1,0 +1,25 @@
+name: Update Docker Compose in Home Lab
+
+on:
+  push:
+    paths:
+      - 'docker-compose.yml'
+
+jobs:
+  update-docker-compose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the latest code
+        uses: actions/checkout@v2
+
+      - name: SSH and Update Docker Compose
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOME_LAB_HOST }}
+          username: ${{ secrets.HOME_LAB_USERNAME }}
+          key: ${{ secrets.HOME_LAB_SSH_KEY }}
+          script: |
+            cd path/to/your/docker-compose/folder
+            git pull
+            docker-compose down
+            docker-compose up -d
