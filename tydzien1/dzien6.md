@@ -1,27 +1,34 @@
-# Tydzień 1: DevOps & Git 🚀
+# Tydzień 1: Wprowadzenie do DevOps & Linux 🚀
 
+## Dzień 6: Opanuj Podstawy Komend Linuksa - Fundament dla każdego DevOps! 🐧
 
-## Dzień 6: Mistrzostwo w Gałęziach Git - Klucz do skutecznej współpracy! 🌿
+### Zanurzamy się w świat Linuksa! 🛠️
 
-### Pogłębiamy wiedzę na temat Git! 🛠️
+Szósty dzień naszej serii "100 dni do DevOps" skupia się na kluczowych komendach Linuksa, niezbędnych w pracy każdego specjalisty DevOps.
 
-Szósty dzień naszej serii "100 dni do DevOps" jest poświęcony zaawansowanym technikom pracy z gałęziami w Git - narzędziu, które jest fundamentem dla współpracy w rozwoju oprogramowania.
+### Dlaczego komendy Linuksa są tak ważne?
 
-### Dlaczego gałęzie w Git są tak ważne?
+Znajomość komend Linuksa umożliwia efektywne zarządzanie systemami, automatyzację zadań, zarządzanie plikami, a także monitoring i debugowanie aplikacji.
 
-Praca z gałęziami (branching) i łączenie ich zmian (merging) to kluczowe umiejętności, które pozwalają na płynną pracę nad różnymi funkcjami i ułatwiają integrację zmian, minimalizując ryzyko konfliktów w kodzie.
+### Podstawowe Komendy:
 
-### Zaawansowane Techniki:
-
-- **Strategie Branching**: Naucz się, jak stosować różne strategie pracy z gałęziami, aby optymalizować workflow w zespole.
-- **Merging i Rebase**: Zrozum różnice i naucz się, kiedy najlepiej stosować te techniki.
-- **Git Flow**: Zastosuj tę popularną metodologię pracy z gałęziami, która pomaga w organizacji i zarządzaniu złożonymi projektami.
+- `ls`: Wylistuj pliki i katalogi w bieżącym katalogu. Użyj `ls -la` do pokazania szczegółowych informacji, w tym ukrytych plików.
+- `cd`: Zmień bieżący katalog. Użyj `cd ..`, aby przejść do katalogu nadrzędnego.
+- `pwd`: Pokaż bieżącą ścieżkę katalogu.
+- `mkdir`: Utwórz nowy katalog.
+- `rm`: Usuń plik. Użyj `rm -r`, aby usunąć katalog i jego zawartość.
+- `cp`: Kopiuj pliki lub katalogi. Użyj `cp -r` do kopiowania katalogów.
+- `mv`: Przenieś lub zmień nazwę pliku/katalogu.
+- `cat`: Wyświetl zawartość pliku.
+- `grep`: Szukaj wzorca w pliku lub strumieniu danych.
+- `find`: Znajdź pliki i katalogi na podstawie kryteriów.
+- `chmod`: Zmień uprawnienia pliku lub katalogu.
+- `chown`: Zmień właściciela pliku lub katalogu.
 
 ### Warsztaty Praktyczne:
 
-Przeprowadziliśmy warsztaty, podczas których zastosowaliśmy te techniki w praktycznych scenariuszach. Symulowaliśmy współpracę w zespole i zarządzanie kodem, co pozwoliło na zrozumienie, jak efektywnie stosować te metody w codziennej pracy.
+Podczas warsztatów praktycznych uczestnicy mieli okazję zastosować wymienione komendy w typowych scenariuszach DevOps, takich jak zarządzanie plikami, edycja konfiguracji, oraz podstawowe zadania administracyjne. Ćwiczenia te pozwoliły na zrozumienie, jak skutecznie wykorzystać Linuksa w codziennej pracy.
 
 ### Dołącz do Nas:
 
-Odkryj, jak zaawansowane funkcje gałęzi w Git mogą wpłynąć na kulturę DevOps i uczynić współpracę bardziej efektywną. To ważny krok w kierunku lepszego zarządzania wersjami i płynnego workflow w projektach.
-
+Poznaj, jak podstawowe komendy Linuksa mogą wspierać praktyki DevOps, usprawniając automatyzację i zarządzanie infrastrukturą. To kluczowy krok w kierunku efektywnej pracy z systemami i aplikacjami w środowisku DevOps.
