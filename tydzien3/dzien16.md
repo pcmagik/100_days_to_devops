@@ -1,4 +1,4 @@
-# Tydzień 3: Zaawansowane Narzędzia i Praktyki w DevOps 🚀
+# Tydzień 3 - "Zaawansowane Homelab i Zarządzanie Usługami" 🚀
 
 ## Dzień 16: Lokalny DNS Pi-hole z Traefikiem i Cloudflare 🌐
 
