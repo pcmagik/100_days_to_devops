@@ -1,4 +1,4 @@
-# Tydzień 1: DevOps & Git 🚀
+# Tydzień 1 - "DevOps & Git" 🚀
 
 ## Dzień 4: Narzędzia do Obsługi Laboratorium 🛠️
 
