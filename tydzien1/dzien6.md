@@ -1,4 +1,4 @@
-# Tydzień 1: Wprowadzenie do DevOps & Linux 🚀
+# Tydzień 1 - "DevOps & Git" 🚀
 
 ## Dzień 6: Opanuj Podstawy Komend Linuksa - Fundament dla każdego DevOps! 🐧
 
