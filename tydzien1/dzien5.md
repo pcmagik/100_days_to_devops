@@ -1,3 +1,5 @@
+# Tydzień 1 - "DevOps & Git" 🚀
+
 ## Dzień 5: Planowanie Struktury Laboratorium DevOps 🏗️
 
 ### Optymalizacja naszego laboratorium DevOps! 🛠️
