@@ -1,4 +1,4 @@
-# Tydzień 2: Docker & Homelab 🚀
+# Tydzień 2 - "Podstawy Konteneryzacji z Dockerem" 🚀
 
 ## Dzień 10: Wstep do Dockerfile i Docker Compose 🐳
 
