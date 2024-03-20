@@ -1,4 +1,4 @@
-# Tydzień 2: Docker & Homelab 🚀
+# Tydzień 2 - "Podstawy Konteneryzacji z Dockerem" 🚀
 
 ## Dzień 13: Hostowanie Aplikacji z pomocą Nginx Proxy Manager 🌍
 
