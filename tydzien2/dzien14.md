@@ -1,4 +1,4 @@
-# Tydzień 2: Docker & Homelab 🚀
+# Tydzień 2 - "Podstawy Konteneryzacji z Dockerem" 🚀
 
 ## Podsumowanie Tygodnia: Od Podstaw do Zaawansowanych Narzędzi Docker 📚
 
