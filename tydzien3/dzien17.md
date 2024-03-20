@@ -1,4 +1,4 @@
-# Tydzień 3: Zaawansowane Narzędzia i Praktyki w DevOps 🚀
+# Tydzień 3 - "Zaawansowane Homelab i Zarządzanie Usługami" 🚀
 
 ## Dzień 17: Wprowadzenie do CrowdSec dla Zwiększenia Bezpieczeństwa Infrastruktury 🛡️
 
