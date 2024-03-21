@@ -13,6 +13,6 @@ W ciągu ostatnich 7 dni naszej serii "100 dni do DevOps" zgłębiliśmy szereg 
 ### Podsumowanie Tygodnia
 Ten tydzień pokazał nam, jak ważne jest zabezpieczanie danych i zapewnianie bezpiecznej komunikacji w ekosystemie DevOps. Każde z tych narzędzi ma swoje miejsce w budowaniu bezpiecznej, elastycznej i efektywnej infrastruktury IT.
 
-### W Przód
+### Co pokaże przyszłość?
 Z niecierpliwością oczekujemy na kolejne wyzwania i odkrycia w naszej podróży po świecie DevOps. Dołącz do nas w kolejnych dniach, aby razem kontynuować tę fascynującą podróż!
 
