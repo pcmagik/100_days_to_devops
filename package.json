@@ -1,0 +1,20 @@
+{
+    "name": "100_days_to_devops",
+    "version": "0.0.0-semantically-released",
+    "scripts": {
+      "semantic-release": "semantic-release"
+    },
+    "devDependencies": {
+      "semantic-release": "^17.0.0"
+    },
+    "release": {
+      "branches": ["main"],
+      "repositoryUrl": "https://github.com/pcmagik/100_days_to_devops",
+      "plugins": [
+        "@semantic-release/commit-analyzer",
+        "@semantic-release/release-notes-generator",
+        "@semantic-release/github"
+      ]
+    }
+  }
+  
