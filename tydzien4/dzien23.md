@@ -11,8 +11,30 @@ W dniu 23. naszej serii "100 dni do DevOps" skupiamy się na **Tailscale** - sie
 - **Łatwa skalowalność**: Tailscale umożliwia łatwe dodawanie nowych urządzeń do sieci.
 
 ### Konfiguracja Tailscale:
-Tutaj zostanie wklejony przykładowy `docker-compose.yml`.
-
+```yaml
+version: "3.7"
+services:
+  tailscale-nginx:
+    image: tailscale/tailscale:latest
+    hostname: tailscale-nginx
+    environment:
+      - TS_AUTHKEY=tskey-client-notAReal-OAuthClientSecret1Atawk
+      - TS_EXTRA_ARGS=--advertise-tags=tag:container
+      - TS_STATE_DIR=/var/lib/tailscale
+      - TS_USERSPACE=false
+    volumes:
+      - ${PWD}/tailscale-nginx/state:/var/lib/tailscale
+      - /dev/net/tun:/dev/net/tun
+    cap_add:
+      - net_admin
+      - sys_module
+    restart: unless-stopped
+  nginx:
+    image: nginx
+    depends_on:
+      - tailscale-nginx
+    network_mode: service:tailscale-nginx```
+```
 ### Podsumowanie
 Tailscale to potężne narzędzie dla każdego inżyniera DevOps, które upraszcza budowanie bezpiecznych sieci VPN, niezbędnych w dzisiejszych zdecentralizowanych i zdalnych środowiskach pracy.
 
