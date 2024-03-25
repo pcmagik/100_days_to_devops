@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0  # Ważne, aby pobrać całą historię dla semantic-release
       - uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '20'  # Wymuszenie użycia Node.js 20
       - run: npm install
       - run: npx semantic-release
         env:
