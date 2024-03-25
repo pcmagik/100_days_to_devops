@@ -1,4 +1,4 @@
-name: Release
+name: Version Release
 
 on:
   push:
@@ -13,12 +13,12 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Ważne, aby pobrać całą historię dla semantic-release
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: '16'
       - run: npm install
       - run: npx semantic-release
         env:
