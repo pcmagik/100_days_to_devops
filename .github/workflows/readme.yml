@@ -14,12 +14,12 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3  # Zaktualizowana do v3
         with:
           persist-credentials: false  # Uniknięcie potencjalnych problemów z domyślnym GITHUB_TOKEN
 
       - name: Setup Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v3  # Zaktualizowana do v3
         with:
           python-version: '3.x'
 
