@@ -115,5 +115,7 @@ Nie przegap tej wyjątkowej okazji do nauki i rozwoju. **100 Dni do DevOps** to 
 
 [Dzień 26: Tworzenie własnego Dashboardu 📊](tydzien4/dzien26.md)
 
+[Dzień 27: Wprowadzenie do Authentik 🔑](tydzien4/dzien27.md)
+
 
 <!-- spis_tresci_end -->
