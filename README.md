@@ -117,5 +117,7 @@ Nie przegap tej wyjątkowej okazji do nauki i rozwoju. **100 Dni do DevOps** to 
 
 [Dzień 27: Wprowadzenie do Authentik 🔑](tydzien4/dzien27.md)
 
+[Dzień 28: Podsumowanie tygodnia 🔄](tydzien4/dzien28.md)
+
 
 <!-- spis_tresci_end -->
