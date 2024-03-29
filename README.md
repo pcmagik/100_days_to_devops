@@ -119,5 +119,7 @@ Nie przegap tej wyjątkowej okazji do nauki i rozwoju. **100 Dni do DevOps** to 
 
 [Dzień 28: Podsumowanie tygodnia 🔄](tydzien4/dzien28.md)
 
+[Dzień 29: Monitoring z Grafana, InfluxDB, Prometheus, Telegraf 📊](tydzien5/dzien29.md)
+
 
 <!-- spis_tresci_end -->
