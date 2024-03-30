@@ -121,5 +121,7 @@ Nie przegap tej wyjątkowej okazji do nauki i rozwoju. **100 Dni do DevOps** to 
 
 [Dzień 29: Monitoring z Grafana, InfluxDB, Prometheus, Telegraf 📊](tydzien5/dzien29.md)
 
+[Dzień 30: Monitoring dostępności z Uptime Kuma 🕒](tydzien5/dzien30.md)
+
 
 <!-- spis_tresci_end -->
