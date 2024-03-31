@@ -123,5 +123,7 @@ Nie przegap tej wyjątkowej okazji do nauki i rozwoju. **100 Dni do DevOps** to 
 
 [Dzień 30: Monitoring dostępności z Uptime Kuma 🕒](tydzien5/dzien30.md)
 
+[Dzień 31: Powiadomienia z Gotify 📲](tydzien5/dzien31.md)
+
 
 <!-- spis_tresci_end -->
