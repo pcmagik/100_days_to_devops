@@ -125,5 +125,7 @@ Nie przegap tej wyjątkowej okazji do nauki i rozwoju. **100 Dni do DevOps** to 
 
 [Dzień 31: Powiadomienia z Gotify 📲](tydzien5/dzien31.md)
 
+[Dzień 32: Automatyczne aktualizacje z Watchtower 🔄](tydzien5/dzien32.md)
+
 
 <!-- spis_tresci_end -->
