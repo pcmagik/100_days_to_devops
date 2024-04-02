@@ -127,5 +127,7 @@ Nie przegap tej wyjątkowej okazji do nauki i rozwoju. **100 Dni do DevOps** to 
 
 [Dzień 32: Automatyczne aktualizacje z Watchtower 🔄](tydzien5/dzien32.md)
 
+[Dzień 33: Backup i przechowywanie danych z TrueNAS 📦](tydzien5/dzien33.md)
+
 
 <!-- spis_tresci_end -->
