@@ -129,5 +129,7 @@ Nie przegap tej wyjątkowej okazji do nauki i rozwoju. **100 Dni do DevOps** to 
 
 [Dzień 33: Backup i przechowywanie danych z TrueNAS 📦](tydzien5/dzien33.md)
 
+[Dzień 34: Proxmox Backup Server dla zaawansowanych kopii zapasowych 🛡️](tydzien5/dzien34.md)
+
 
 <!-- spis_tresci_end -->
