@@ -1,19 +1,20 @@
 # ![Logo DevOps](https://github.com/pcmagik/100_days_to_devops/blob/main/100_Days_to_DevOps.jpg) 100 Dni do DevOps
 
-**Witaj w niezwykłej podróży "100 Dni do DevOps"** Mój projekt to repozytorium edukacyjne, stworzone z myślą o entuzjastach DevOps na każdym poziomie zaawansowania. Naszym celem jest przekroczenie tradycyjnych granic edukacji, oferując praktyczne doświadczenie w budowaniu i zarządzaniu infrastrukturą przypominającą chmurę, korzystając z najnowszych narzędzi i technologii.
+# Witaj w niezwykłej podróży "100 Dni do DevOps"
+**Mój projekt** to repozytorium edukacyjne, stworzone z myślą o entuzjastach DevOps na każdym poziomie zaawansowania. Naszym celem jest przekroczenie tradycyjnych granic edukacji, oferując praktyczne doświadczenie w budowaniu i zarządzaniu infrastrukturą przypominającą chmurę, korzystając z najnowszych narzędzi i technologii.
 
 ## 🚀 O Projekcie
 
 "100 Dni do DevOps" to projekt, który ma na celu zanurzenie Cię w świecie DevOps przez praktyczne zadania, projekty i wyzwania. Każdy dzień to nowy krok w kierunku zrozumienia i umiejętnego stosowania metodologii DevOps, od automatyzacji i konteneryzacji po zarządzanie infrastrukturą i bezpieczeństwo.
 
-### ❓Dlaczego "100 Dni do DevOps"?
+## ❓Dlaczego "100 Dni do DevOps"?
 Ten projekt jest więcej niż tylko konkursem - to przygoda, która prowadzi Nas razem przez rzeczywiste wyzwania i scenariusze, jakich możesz doświadczyć w codziennej pracy DevOps. To także szansa na dołączenie do społeczności osób o podobnych zainteresowaniach, gdzie wspólnie możemy się uczyć, dzielić doświadczeniami i wspierać w rozwoju.
 
 ## 🌟 Czemu to repozytorium jest wyjątkowe?
 
 **Pierwszy w Polsce poradnik DevOps**: Jest to pierwsze repozytorium na GitHubie poświęcone DevOps, które oferuje materiały w całości w języku polskim. Naszym celem jest udostępnienie wiedzy i najlepszych praktyk z dziedziny DevOps polskojęzycznej społeczności technicznej, umożliwiając łatwiejszy dostęp do informacji i zasobów dla osób, które wolą uczyć się w swoim ojczystym języku.
 
-### 🤝 Dołącz do naszej społeczności
+## 🤝 Dołącz do naszej społeczności
 
 Zachęcamy każdego, kto chce zgłębić świat DevOps, do korzystania z tego repozytorium. Niezależnie od tego, czy jesteś początkującym entuzjastą, czy doświadczonym profesjonalistą, znajdziesz tutaj wartościowe zasoby,
 
@@ -49,7 +50,7 @@ Zachęcam do współpracy! Jeśli masz pomysły na projekty, chcesz dodać swoje
 
 W naszym repozytorium znajdziesz nie tylko szczegółowe poradniki i instrukcje, ale również bogatą kolekcję przydatnych linków, plików oraz skryptów, które wspierają proces nauki i pomagają w praktycznym zastosowaniu wiedzy DevOps.
 
-### Co znajdziesz w każdym wpisie:
+## Co znajdziesz w każdym wpisie:
 
 - **Przydatne Linki:** Zebrałem dla Ciebie linki do dodatkowych źródeł, artykułów oraz dokumentacji, które pozwolą Ci zgłębić tematykę każdego modułu.
 
@@ -174,6 +175,10 @@ Twoje bezpieczeństwo jest dla mnie ważne. Jeśli odkryjesz jakiekolwiek potenc
 ## 🤗 Wsparcie
 
 Potrzebujesz pomocy lub masz pytania? Dołącz do naszego discroda [Discord](https://discord.gg/wKBqzdsHcU) lub skontaktuj się bezpośrednio poprzez [Mail](biuro@mateuszpiekut.pl).
+
+Przekształć swoją pasję w umiejętności z "100 Dni do DevOps". Razem zbudujmy coś niesamowitego.
+
+Dołącz do mnie i przejdź drogę do DevOps w ciągu następnych 100 dni. Razem możemy osiągnąć więcej!
 ---
 
 ## Licencja
@@ -194,12 +199,3 @@ Pod warunkiem, że:
 Pełny tekst licencji dostępny jest [tutaj](https://creativecommons.org/licenses/by-nd/4.0/legalcode).
 ---
 
-
-
-
----
-### **Przekształć swoją pasję w umiejętności z "100 Dni do DevOps". Razem zbudujmy coś niesamowitego.**
-
----
-### **Dołącz do nas i przejdź drogę do DevOps w ciągu następnych 100 dni. Razem możemy osiągnąć więcej!** 
----
