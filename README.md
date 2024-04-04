@@ -131,5 +131,7 @@ Nie przegap tej wyjątkowej okazji do nauki i rozwoju. **100 Dni do DevOps** to 
 
 [Dzień 34: Proxmox Backup Server dla zaawansowanych kopii zapasowych 🛡️](tydzien5/dzien34.md)
 
+[Dzień 35: Podsumowanie tygodnia z monitoringiem, logowaniem i backupem 🔄](tydzien5/dzien35.md)
+
 
 <!-- spis_tresci_end -->
