@@ -179,6 +179,7 @@ Potrzebujesz pomocy lub masz pytania? Dołącz do naszego discroda [Discord](htt
 Przekształć swoją pasję w umiejętności z "100 Dni do DevOps". Razem zbudujmy coś niesamowitego.
 
 Dołącz do mnie i przejdź drogę do DevOps w ciągu następnych 100 dni. Razem możemy osiągnąć więcej!
+
 ---
 
 ## Licencja
