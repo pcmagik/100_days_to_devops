@@ -162,6 +162,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 35: Podsumowanie tygodnia z monitoringiem, logowaniem i backupem 🔄](tydzien5/dzien35.md)
 
+[Dzień 36: Wprowadzenie do Zabezpieczeń w IT](tydzien6/dzien36.md)
+
 
 <!-- spis_tresci_end -->
 
