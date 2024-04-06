@@ -164,7 +164,7 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 36: Wprowadzenie do Zabezpieczeń w IT](tydzien6/dzien36.md)
 
-[Dzień 37: Zarządzanie certyfikatami SSL/TLS 🔐](tydzien6/dzien37.md)
+[Dzień 37: Implementacja SSL/TLS w Docker 🐳](tydzien6/dzien37.md)
 
 
 <!-- spis_tresci_end -->
