@@ -1,20 +1,36 @@
-# Tydzień 6: 
+# Tydzień 6: Zabezpieczenia i Szyfrowanie 🔐
 
-## Dzień 37: Zarządzanie certyfikatami SSL/TLS 🔐
+## Dzień 37: Implementacja SSL/TLS w Docker 🐳
 
 ### Wprowadzenie do SSL/TLS
-W 37. dniu naszej serii "100 dni do DevOps" skupiamy się na zarządzaniu certyfikatami SSL/TLS, które są niezbędne do zabezpieczania komunikacji w Internecie poprzez szyfrowanie.
+Dzień 37 "100 dni do DevOps" poświęcamy na zagłębienie się w zarządzanie certyfikatami SSL/TLS - kluczowym elemencie w zabezpieczaniu komunikacji w naszych aplikacjach, zwłaszcza gdy działają w kontenerach Docker.
 
-### Dlaczego SSL/TLS jest ważny?
-- **Poufność**: Zapobiega przechwyceniu wrażliwych danych przez nieautoryzowane osoby.
-- **Autentyczność**: Umożliwia weryfikację tożsamości stron komunikujących się przez Internet.
-- **Integralność**: Zapewnia, że dane nie zostały zmienione podczas transmisji.
+### Dlaczego SSL/TLS jest Kluczowy?
+- **Poufność**: Szyfrowanie połączeń chroni przed przechwyceniem wrażliwych danych.
+- **Autentyczność**: Weryfikuje, czy komunikujesz się z prawdziwym serwerem.
+- **Integralność**: Gwarantuje, że dane nie zostały zmienione w trakcie transmisji.
 
-### Implementacja SSL/TLS:
-- Jak uzyskać i zainstalować certyfikat SSL/TLS dla serwera webowego.
-- Konfiguracja serwera do użycia szyfrowania SSL/TLS.
-- Najlepsze praktyki zarządzania certyfikatami i odnawiania ich przed wygaśnięciem.
+### Implementacja SSL/TLS w Docker:
+1. **Generowanie Certyfikatów**:
+    - Użycie narzędzi takich jak Let's Encrypt do automatycznego generowania certyfikatów SSL/TLS dla naszych usług.
+    ```bash
+    sudo docker run -it --rm --name certbot -v "/etc/letsencrypt:/etc/letsencrypt" certbot/certbot certonly --standalone -d twojadomena.com
+    ```
+2. **Konfiguracja Serwera Webowego w Kontenerze**:
+    - Przykład konfiguracji Nginx z certyfikatem SSL w Dockerfile:
+    ```dockerfile
+    FROM nginx:alpine
+    COPY ./default.conf /etc/nginx/conf.d/default.conf
+    COPY /home/ubuntu/certs:/etc/ssl/certs
+    EXPOSE 443
+    ```
+3. **Automatyzacja Odnowień**:
+    - Implementacja skryptów automatyzujących proces odnowienia certyfikatów, aby uniknąć wygaśnięcia.
+
+### Najlepsze Praktyki:
+- **Automatyzacja**: Wykorzystaj narzędzia do automatycznego odnawiania certyfikatów.
+- **Segregacja**: Przechowuj certyfikaty w bezpiecznym miejscu, najlepiej poza kontenerami.
+- **Monitoring**: Regularnie sprawdzaj ważność certyfikatów i szybko reaguj na ewentualne problemy.
 
 ### Podsumowanie
-Zarządzanie certyfikatami SSL/TLS jest kluczowym aspektem zabezpieczeń w IT, zapewniającym bezpieczną komunikację w sieci i ochronę danych użytkowników.
-
+Zarządzanie certyfikatami SSL/TLS w środowisku Docker jest niezbędne do zabezpieczenia komunikacji między kontenerami oraz między kontenerami a użytkownikami. Dzięki tym praktykom zapewnimy wysoki poziom bezpieczeństwa naszych aplikacji działających w kontenerach.
