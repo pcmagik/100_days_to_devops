@@ -166,6 +166,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 37: Implementacja SSL/TLS w Docker 🐳](tydzien6/dzien37.md)
 
+[Dzień 38: Praktyczne Zarządzanie Firewallami](tydzien6/dzien38.md)
+
 
 <!-- spis_tresci_end -->
 
