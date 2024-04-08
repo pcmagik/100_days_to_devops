@@ -168,6 +168,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 38: Praktyczne Zarządzanie Firewallami](tydzien6/dzien38.md)
 
+[Dzień 39: Przegląd podatności i narzędzi do ich wykrywania 🕵️‍♂️](tydzien6/dzien39.md)
+
 
 <!-- spis_tresci_end -->
 
