@@ -170,6 +170,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 39: Przegląd podatności i narzędzi do ich wykrywania 🕵️‍♂️](tydzien6/dzien39.md)
 
+[Dzień 40: Praktyczne aspekty zabezpieczeń kontenerów Docker 🐳](tydzien6/dzien40.md)
+
 
 <!-- spis_tresci_end -->
 
