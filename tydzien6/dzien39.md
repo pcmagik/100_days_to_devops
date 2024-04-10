@@ -1,4 +1,4 @@
-# Tydzień 6: Wnikliwe wykrywanie podatności za pomocą narzędzi DevOps 🛠️
+# Tydzień 6: Security
 
 ## Dzień 39: Przegląd podatności i narzędzi do ich wykrywania 🕵️‍♂️
 
