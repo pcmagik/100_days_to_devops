@@ -1,4 +1,4 @@
-# Tydzień 6: Bezpieczeństwo IT i Dobre Praktyki 🔒
+# Tydzień 6: Security
 
 ## Dzień 36: Wprowadzenie do Zabezpieczeń w IT
 
