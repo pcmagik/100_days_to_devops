@@ -1,4 +1,4 @@
-# Tydzień 6: Zabezpieczenia i Szyfrowanie 🔐
+# Tydzień 6: Security
 
 ## Dzień 37: Implementacja SSL/TLS w Docker 🐳
 
