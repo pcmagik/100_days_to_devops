@@ -172,6 +172,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 40: Praktyczne aspekty zabezpieczeń kontenerów Docker 🐳](tydzien6/dzien40.md)
 
+[Dzień 41: Automatyzacja testów bezpieczeństwa w CI/CD 🛡️](tydzien6/dzien41.md)
+
 
 <!-- spis_tresci_end -->
 
