@@ -1,4 +1,4 @@
-# Tydzień 6: Firewall i Zabezpieczenia Sieciowe 🔥
+# Tydzień 6: Security 🔥
 
 ## Dzień 38: Praktyczne Zarządzanie Firewallami
 
