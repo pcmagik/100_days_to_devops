@@ -1,4 +1,4 @@
-# Tydzień 6: 
+# Tydzień 6: Security
 
 ## Dzień 40: Praktyczne aspekty zabezpieczeń kontenerów Docker 🐳
 
