@@ -19,7 +19,6 @@ W 41. dniu "100 dni do DevOps" skupiamy siÄ™ na integracji i automatyzacji testÃ
     steps {
       zapHome: '/path/to/ZAP', target: 'http://your.application.url'
     }
-  }
   ```
 
 #### SonarQube
