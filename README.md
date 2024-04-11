@@ -27,7 +27,7 @@ Zachęcamy każdego, kto chce zgłębić świat DevOps, do korzystania z tego re
 - [x] Tydzień 3 - "Network, reverse proxy, dns, VPN w linux oraz docker"
 - [x] Tydzień 4 - "Budowanie Bezpiecznej Infrastruktury z Dockerem"
 - [x] Tydzień 5 - "Monitoring & Logging & Backup"
-- [ ] Tydzień 6 - Security
+- [x] Tydzień 6 - Security
 - [ ] Tydzień 7 - Github Actions
 - [ ] Tydzień 8 - Argo CD & Jenkins
 - [ ] Tydzień 9 - Packer & Proxmox
