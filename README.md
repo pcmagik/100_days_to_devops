@@ -176,6 +176,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 42: Podsumowanie tygodnia Security w DevOps 🛡️](tydzien6/dzien42.md)
 
+[Dzień 43: Wprowadzenie do GitHub Actions 🚀](tydzien7/dzien43.md)
+
 
 <!-- spis_tresci_end -->
 
