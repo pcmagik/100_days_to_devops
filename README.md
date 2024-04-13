@@ -178,6 +178,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 43: Wprowadzenie do GitHub Actions 🚀](tydzien7/dzien43.md)
 
+[Dzień 44: Testy aplikacji Docker z GitHub Actions 🐳](tydzien7/dzien44.md)
+
 
 <!-- spis_tresci_end -->
 
