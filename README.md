@@ -182,6 +182,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 45: Automatyzacja README.md z GitHub Actions 📝](tydzien7/dzien45.md)
 
+[Dzień 46: Automatyczne podbicie wersji aplikacji z GitHub Actions 🆙](tydzien7/dzien46.md)
+
 
 <!-- spis_tresci_end -->
 
