@@ -45,6 +45,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+#### Przykładowe typy commitów, które mogą wywołać zmianę wersji to:
+
+`feat:` Nowa funkcja dla użytkownika, nie dla buildu skryptu.
+
+`fix:` Naprawa błędu dla użytkownika, nie dla buildu skryptu.
+
+`BREAKING CHANGE:` Zmiana, która powoduje niekompatybilność wsteczną.
+
+#### Przykładowy commit wywołujący zmianę wersji:
+```bash
+git commit -m "feat: dodanie nowej funkcjonalności ..."
+git push origin main
+``` 
+
+
 ### Podsumowanie
 Automatyzacja wersjonowania z GitHub Actions to nieocenione narzędzie, które zapewnia spójność, precyzję i efektywność w procesie wydawniczym aplikacji.
 
