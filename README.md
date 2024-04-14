@@ -180,6 +180,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 44: Testy aplikacji Docker z GitHub Actions 🐳](tydzien7/dzien44.md)
 
+[Dzień 45: Automatyzacja README.md z GitHub Actions 📝](tydzien7/dzien45.md)
+
 
 <!-- spis_tresci_end -->
 
