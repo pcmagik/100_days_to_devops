@@ -184,6 +184,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 46: Automatyczne podbicie wersji aplikacji z GitHub Actions 🆙](tydzien7/dzien46.md)
 
+[Dzień 47: Lokalne testy GitHub Actions z Act 🛠️](tydzien7/dzien47.md)
+
 
 <!-- spis_tresci_end -->
 
