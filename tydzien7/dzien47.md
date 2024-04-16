@@ -12,13 +12,26 @@ Dzisiaj, w 47. dniu naszej serii "100 dni do DevOps", eksplorujemy **Act**, narz
 
 ### Jak rozpocząć z Act?
 1. **Instalacja**: Act można zainstalować na większości systemów operacyjnych. W zależności od Twojej platformy, proces instalacji może się nieznacznie różnić.
-   - Na systemach Unix/Linux i macOS: `brew install act`
-   - Na Windows: `choco install act-cli` lub skorzystaj z binarnego pliku instalacyjnego.
+- **Na systemach macOS**:
+  ~~~bash
+  brew install act
+  ~~~
+- **Na Windows** (z użyciem Chocolatey):
+  ~~~bash
+  choco install act-cli
+  ~~~
+- **Na Linuxie**:
+  ~~~bash
+  # Instalacja za pomocą skryptu
+  sudo curl -sL https://raw.githubusercontent.com/nektos/act/master/install.sh | sudo bash
+  ~~~
+
+
 2. **Konfiguracja**: Aby używać Act, musisz mieć plik `workflow.yml` w katalogu `.github/workflows` swojego repozytorium. Act użyje tych plików do symulacji GitHub Actions.
 3. **Uruchamianie**: Aby uruchomić Act, otwórz terminal w katalogu projektu i wpisz `act`. Możesz przekazać różne opcje, aby symulować specyficzne zachowania, np. `act -j nazwa_joba` uruchomi tylko określone joby.
 
 ### Źródła i dodatkowe materiały:
-- Oficjalna strona Act: [Visita Act GitHub](https://github.com/nektos/act)
+- Oficjalna strona Act: [Act GitHub](https://github.com/nektos/act)
 - Dokumentacja Act: [Dokumentacja Act](https://github.com/nektos/act#readme)
 - Przykłady użycia Act w projektach: [Act w użyciu](https://github.com/nektos/act#examples)
 
