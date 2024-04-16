@@ -3,18 +3,24 @@
 ## Dzień 47: Lokalne testy GitHub Actions z Act 🛠️
 
 ### Wprowadzenie do Act
-W 47. dniu naszej serii "100 dni do DevOps" skupiamy się na **Act**, narzędziu, które umożliwia lokalne testowanie GitHub Actions. Act pozwala na uruchamianie i debugowanie workflow GitHub Actions na własnym komputerze, bez konieczności wielokrotnego pushowania zmian do repozytorium w celu przetestowania działania.
+Dzisiaj, w 47. dniu naszej serii "100 dni do DevOps", eksplorujemy **Act**, narzędzie umożliwiające lokalne testowanie i debugowanie GitHub Actions na Twoim komputerze, bez potrzeby wysyłania zmian do repozytorium na GitHubie. Act symuluje środowisko GitHub Actions, co pozwala na szybsze cykle iteracji i oszczędność czasu.
 
 ### Dlaczego lokalne testowanie GitHub Actions jest ważne?
-- **Szybkość**: Lokalne testowanie przyspiesza proces tworzenia i debugowania workflow.
-- **Efektywność**: Zmniejsza liczbę commitów testowych i niepotrzebnych uruchomień w GitHub.
-- **Rozwój**: Ułatwia eksperymentowanie z GitHub Actions w izolowanym środowisku.
+- **Szybkość**: Dzięki lokalnemu testowaniu, można znacząco przyspieszyć proces tworzenia i debugowania GitHub Actions.
+- **Efektywność**: Zmniejsza to potrzebę tworzenia wielu testowych commitów oraz uruchamiania workflow na GitHubie, co jest korzystne zarówno dla wydajności, jak i kosztów.
+- **Rozwój**: Act umożliwia łatwe eksperymentowanie i testowanie różnych konfiguracji i scenariuszy w kontrolowanym, lokalnym środowisku.
 
-### Użycie Act do testów lokalnych:
-- Instalacja Act na lokalnym komputerze.
-- Konfiguracja środowiska do symulacji workflow GitHub Actions.
-- Uruchamianie i debugowanie workflow lokalnie, z szybkim feedbackiem na wprowadzane zmiany.
+### Jak rozpocząć z Act?
+1. **Instalacja**: Act można zainstalować na większości systemów operacyjnych. W zależności od Twojej platformy, proces instalacji może się nieznacznie różnić.
+   - Na systemach Unix/Linux i macOS: `brew install act`
+   - Na Windows: `choco install act-cli` lub skorzystaj z binarnego pliku instalacyjnego.
+2. **Konfiguracja**: Aby używać Act, musisz mieć plik `workflow.yml` w katalogu `.github/workflows` swojego repozytorium. Act użyje tych plików do symulacji GitHub Actions.
+3. **Uruchamianie**: Aby uruchomić Act, otwórz terminal w katalogu projektu i wpisz `act`. Możesz przekazać różne opcje, aby symulować specyficzne zachowania, np. `act -j nazwa_joba` uruchomi tylko określone joby.
+
+### Źródła i dodatkowe materiały:
+- Oficjalna strona Act: [Visita Act GitHub](https://github.com/nektos/act)
+- Dokumentacja Act: [Dokumentacja Act](https://github.com/nektos/act#readme)
+- Przykłady użycia Act w projektach: [Act w użyciu](https://github.com/nektos/act#examples)
 
 ### Podsumowanie
-Act to potężne narzędzie dla deweloperów i specjalistów DevOps, pozwalające na efektywniejsze tworzenie, testowanie i debugowanie workflow GitHub Actions bezpośrednio na lokalnym komputerze.
-
+Act jest nieocenionym narzędziem dla deweloperów i specjalistów DevOps, które umożliwia efektywne tworzenie, testowanie i debugowanie GitHub Actions bezpośrednio na lokalnym komputerze. Dzięki Act, można znacząco skrócić czas potrzebny na rozwój i utrzymanie skomplikowanych workflow.
