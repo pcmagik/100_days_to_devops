@@ -186,6 +186,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 47: Lokalne testy GitHub Actions z Act 🛠️](tydzien7/dzien47.md)
 
+[Dzień 48: Zabezpieczenia i tajne klucze w Github Actions 🔐](tydzien7/dzien48.md)
+
 
 <!-- spis_tresci_end -->
 
