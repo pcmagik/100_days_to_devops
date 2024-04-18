@@ -188,6 +188,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 48: Zabezpieczenia i tajne klucze w Github Actions 🔐](tydzien7/dzien48.md)
 
+[Dzień 49: Podsumowanie tygodnia z GitHub Actions 📊](tydzien7/dzien49.md)
+
 
 <!-- spis_tresci_end -->
 
