@@ -190,6 +190,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 49: Podsumowanie tygodnia z GitHub Actions 📊](tydzien7/dzien49.md)
 
+[Dzień 50: Wprowadzenie do CI/CD z Jenkins 🚀](tydzien8/dzien50.md)
+
 
 <!-- spis_tresci_end -->
 
