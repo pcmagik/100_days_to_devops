@@ -28,7 +28,7 @@ Zachęcamy każdego, kto chce zgłębić świat DevOps, do korzystania z tego re
 - [x] Tydzień 4 - "Budowanie Bezpiecznej Infrastruktury z Dockerem"
 - [x] Tydzień 5 - "Monitoring & Logging & Backup"
 - [x] Tydzień 6 - Security
-- [ ] Tydzień 7 - Github Actions
+- [x] Tydzień 7 - Github Actions
 - [ ] Tydzień 8 - Argo CD & Jenkins
 - [ ] Tydzień 9 - Packer & Proxmox
 - [ ] Tydzień 10 - Terraform & Proxmox
