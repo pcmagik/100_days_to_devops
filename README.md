@@ -192,6 +192,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 50: Wprowadzenie do CI/CD z Jenkins 🚀](tydzien8/dzien50.md)
 
+[Dzień 51: Praktyczne budowanie i testowanie aplikacji z Jenkins 🛠️](tydzien8/dzien51.md)
+
 
 <!-- spis_tresci_end -->
 
