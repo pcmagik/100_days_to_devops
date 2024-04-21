@@ -194,6 +194,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 51: Praktyczne budowanie i testowanie aplikacji z Jenkins 🛠️](tydzien8/dzien51.md)
 
+[Dzień 52: Wprowadzenie do GitOps i Argo CD 🌐](tydzien8/dzien52.md)
+
 
 <!-- spis_tresci_end -->
 
