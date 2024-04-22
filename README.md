@@ -196,6 +196,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 52: Wprowadzenie do GitOps i Argo CD 🌐](tydzien8/dzien52.md)
 
+[Dzień 53: Wdrażanie aplikacji z Argo CD 🚀](tydzien8/dzien53.md)
+
 
 <!-- spis_tresci_end -->
 
