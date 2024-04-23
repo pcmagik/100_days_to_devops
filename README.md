@@ -198,6 +198,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 53: Wdrażanie aplikacji z Argo CD 🚀](tydzien8/dzien53.md)
 
+[Dzień 54: Integracja Jenkins z Argo CD 🔄](tydzien8/dzien54.md)
+
 
 <!-- spis_tresci_end -->
 
