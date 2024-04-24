@@ -200,6 +200,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 54: Integracja Jenkins z Argo CD 🔄](tydzien8/dzien54.md)
 
+[Dzień 55: Zaawansowane workflow w Argo CD 🌟](tydzien8/dzien55.md)
+
 
 <!-- spis_tresci_end -->
 
