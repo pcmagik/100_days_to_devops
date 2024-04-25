@@ -202,6 +202,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 55: Zaawansowane workflow w Argo CD 🌟](tydzien8/dzien55.md)
 
+[Dzień 56: Podsumowanie tygodnia z Argo CD i Jenkins 🔄](tydzien8/dzien56.md)
+
 
 <!-- spis_tresci_end -->
 
