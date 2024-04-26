@@ -204,6 +204,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 56: Podsumowanie tygodnia z Argo CD i Jenkins 🔄](tydzien8/dzien56.md)
 
+[Dzień 57: Wprowadzenie do automatyzacji obrazów z Packer 📦](tydzien9/dzien57.md)
+
 
 <!-- spis_tresci_end -->
 
