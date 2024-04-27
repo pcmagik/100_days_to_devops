@@ -206,6 +206,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 57: Wprowadzenie do automatyzacji obrazów z Packer 📦](tydzien9/dzien57.md)
 
+[Dzień 58: Budowanie obrazów maszyn wirtualnych z Packer 🖥️](tydzien9/dzien58.md)
+
 
 <!-- spis_tresci_end -->
 
