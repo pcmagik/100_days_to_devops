@@ -208,6 +208,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 58: Budowanie obrazów maszyn wirtualnych z Packer 🖥️](tydzien9/dzien58.md)
 
+[Dzień 59: Wprowadzenie do wirtualizacji z Proxmox 🌐](tydzien9/dzien59.md)
+
 
 <!-- spis_tresci_end -->
 
