@@ -210,6 +210,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 59: Wprowadzenie do wirtualizacji z Proxmox 🌐](tydzien9/dzien59.md)
 
+[Dzień 60: Zarządzanie maszynami wirtualnymi i kontenerami w Proxmox 🛠️](tydzien9/dzien60.md)
+
 
 <!-- spis_tresci_end -->
 
