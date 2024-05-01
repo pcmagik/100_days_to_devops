@@ -214,6 +214,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 61: Backup i odzyskiwanie danych w Proxmox 🔄](tydzien9/dzien61.md)
 
+[Dzień 62: Automatyzacja zadań w Proxmox przy użyciu API 🤖](tydzien9/dzien62.md)
+
 
 <!-- spis_tresci_end -->
 
