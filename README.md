@@ -30,7 +30,7 @@ Zachęcamy każdego, kto chce zgłębić świat DevOps, do korzystania z tego re
 - [x] Tydzień 6 - Security
 - [x] Tydzień 7 - Github Actions
 - [x] Tydzień 8 - Argo CD & Jenkins
-- [ ] Tydzień 9 - Packer & Proxmox
+- [x] Tydzień 9 - Packer & Proxmox
 - [ ] Tydzień 10 - Terraform & Proxmox
 - [ ] Tydzień 11 - Terraform & Cloud
 - [ ] Tydzień 12 - Ansible & Automations
