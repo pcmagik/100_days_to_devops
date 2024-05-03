@@ -218,6 +218,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 63: Podsumowanie tygodnia z Packer i Proxmox 📚](tydzien9/dzien63.md)
 
+[Dzień 64: Wprowadzenie do Terraform 🌍](tydzien10/dzien64.md)
+
 
 <!-- spis_tresci_end -->
 
