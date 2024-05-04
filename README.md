@@ -220,6 +220,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 64: Wprowadzenie do Terraform 🌍](tydzien10/dzien64.md)
 
+[Dzień 66: Integracja Terraform z Proxmox dla wirtualizacji 🌐](tydzien10/dzien66.md)
+
 
 <!-- spis_tresci_end -->
 
