@@ -43,8 +43,10 @@ W dniu 66. "100 dni do DevOps" skupiamy się na możliwościach, jakie otwiera i
      terraform apply
      ```
 
+
 ### Podsumowanie
 Integracja Terraform z Proxmox otwiera nowe możliwości w zakresie zarządzania infrastrukturą wirtualną, wprowadzając automatyzację, elastyczność i spójność w działaniach DevOps. Wykorzystanie deklaratywnego podejścia Terraform umożliwia precyzyjne i przewidywalne wdrażanie infrastruktury, co jest kluczowe dla efektywnego zarządzania środowiskami wirtualnymi.
+
 
 ### Co dalej?
 Zachęcam do dalszego eksplorowania zaawansowanych funkcji Terraform i Proxmox, aby jeszcze bardziej zautomatyzować i usprawnić procesy zarządzania infrastrukturą wirtualną. Rozważ też integrację z innymi narzędziami i platformami, aby stworzyć jeszcze bardziej zintegrowane i automatyczne środowisko DevOps.
