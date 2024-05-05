@@ -220,6 +220,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 64: Wprowadzenie do Terraform 🌍](tydzien10/dzien64.md)
 
+[Dzień 65: Zarządzanie infrastrukturą jako kodem z Terraform 📜](tydzien10/dzien65.md)
+
 [Dzień 66: Integracja Terraform z Proxmox dla wirtualizacji 🌐](tydzien10/dzien66.md)
 
 
