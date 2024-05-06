@@ -224,6 +224,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 66: Integracja Terraform z Proxmox dla wirtualizacji 🌐](tydzien10/dzien66.md)
 
+[Dzień 67: Moduły i dostawcy w Terraform 🧩](tydzien10/dzien67.md)
+
 
 <!-- spis_tresci_end -->
 
