@@ -226,6 +226,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 67: Moduły i dostawcy w Terraform 🧩](tydzien10/dzien67.md)
 
+[Dzień 68: Best practices i zarządzanie stanem w Terraform 📚](tydzien10/dzien68.md)
+
 
 <!-- spis_tresci_end -->
 
