@@ -228,6 +228,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 68: Best practices i zarządzanie stanem w Terraform 📚](tydzien10/dzien68.md)
 
+[Dzień 69: Zaawansowane techniki i funkcje w Terraform 🚀](tydzien10/dzien69.md)
+
 
 <!-- spis_tresci_end -->
 
