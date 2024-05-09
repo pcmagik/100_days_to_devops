@@ -230,6 +230,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 69: Zaawansowane techniki i funkcje w Terraform 🚀](tydzien10/dzien69.md)
 
+[Dzień 70: Podsumowanie tygodnia z Terraform i Proxmox 🌟](tydzien10/dzien70.md)
+
 
 <!-- spis_tresci_end -->
 
