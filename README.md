@@ -232,6 +232,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 70: Podsumowanie tygodnia z Terraform i Proxmox 🌟](tydzien10/dzien70.md)
 
+[Dzień 71: Wprowadzenie do zarządzania chmurą z Terraform ☁️](tydzien11/dzien71.md)
+
 
 <!-- spis_tresci_end -->
 
