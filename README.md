@@ -234,6 +234,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 71: Wprowadzenie do zarządzania chmurą z Terraform ☁️](tydzien11/dzien71.md)
 
+[Dzień 72: Zarządzanie zasobami AWS z Terraform 🌐](tydzien11/dzien72.md)
+
 
 <!-- spis_tresci_end -->
 
