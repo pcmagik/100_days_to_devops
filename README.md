@@ -236,6 +236,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 72: Zarządzanie zasobami AWS z Terraform 🌐](tydzien11/dzien72.md)
 
+[Dzień 73: Zarządzanie zasobami Azure z Terraform ☁️](tydzien11/dzien73.md)
+
 
 <!-- spis_tresci_end -->
 
