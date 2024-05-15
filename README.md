@@ -242,6 +242,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 75: Organizacja i modularyzacja kodu Terraform dla chmury ☁️](tydzien11/dzien75.md)
 
+[Dzień 76: Wzorce bezpieczeństwa i compliance w chmurze z Terraform 🔒](tydzien11/dzien76.md)
+
 
 <!-- spis_tresci_end -->
 
