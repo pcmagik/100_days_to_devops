@@ -240,6 +240,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 74: Zarządzanie zasobami Google Cloud z Terraform ☁️](tydzien11/dzien74.md)
 
+[Dzień 75: Organizacja i modularyzacja kodu Terraform dla chmury ☁️](tydzien11/dzien75.md)
+
 
 <!-- spis_tresci_end -->
 
