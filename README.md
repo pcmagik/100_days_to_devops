@@ -244,6 +244,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 76: Wzorce bezpieczeństwa i compliance w chmurze z Terraform 🔒](tydzien11/dzien76.md)
 
+[Dzień 77: Podsumowanie tygodnia z Terraform i Cloud 🌤️](tydzien11/dzien77.md)
+
 
 <!-- spis_tresci_end -->
 
