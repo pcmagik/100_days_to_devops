@@ -246,6 +246,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 77: Podsumowanie tygodnia z Terraform i Cloud 🌤️](tydzien11/dzien77.md)
 
+[Dzień 78: Wprowadzenie do Ansible 🚀](tydzien12/dzien78.md)
+
 
 <!-- spis_tresci_end -->
 
