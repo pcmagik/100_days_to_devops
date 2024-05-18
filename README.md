@@ -248,6 +248,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 78: Wprowadzenie do Ansible 🚀](tydzien12/dzien78.md)
 
+[Dzień 79: Podstawy playbooków i roli w Ansible 📖](tydzien12/dzien79.md)
+
 
 <!-- spis_tresci_end -->
 
