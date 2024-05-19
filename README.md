@@ -250,6 +250,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 79: Podstawy playbooków i roli w Ansible 📖](tydzien12/dzien79.md)
 
+[Dzień 80: Zarządzanie konfiguracją i stanem z Ansible 🛠️](tydzien12/dzien80.md)
+
 
 <!-- spis_tresci_end -->
 
