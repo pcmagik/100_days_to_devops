@@ -252,6 +252,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 80: Zarządzanie konfiguracją i stanem z Ansible 🛠️](tydzien12/dzien80.md)
 
+[Dzień 81: Automatyzacja zadań i deployment z Ansible 🚀](tydzien12/dzien81.md)
+
 
 <!-- spis_tresci_end -->
 
