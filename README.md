@@ -254,6 +254,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 81: Automatyzacja zadań i deployment z Ansible 🚀](tydzien12/dzien81.md)
 
+[Dzień 82: Best practices w użyciu Ansible 📚](tydzien12/dzien82.md)
+
 
 <!-- spis_tresci_end -->
 
