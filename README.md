@@ -256,6 +256,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 82: Best practices w użyciu Ansible 📚](tydzien12/dzien82.md)
 
+[Dzień 83: Integracja Ansible z narzędziami monitoringu i logowania 📊](tydzien12/dzien83.md)
+
 
 <!-- spis_tresci_end -->
 
