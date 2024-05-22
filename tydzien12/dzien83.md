@@ -20,7 +20,7 @@ W dniu 83. "100 dni do DevOps" eksplorujemy, jak Ansible może być zintegrowany
      callback_whitelist = slack
 
      [callback_slack]
-    token = <YOUR_SLACK_TOKEN_HERE>
+     token = ${SLACK_TOKEN}
      channel = #ansible-notifications
      username = AnsibleBot
      ```
