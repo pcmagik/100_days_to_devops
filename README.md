@@ -258,6 +258,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 83: Integracja Ansible z narzędziami monitoringu i logowania 📊](tydzien12/dzien83.md)
 
+[Dzień 84: Podsumowanie tygodnia z Ansible & Automations 🎉](tydzien12/dzien84.md)
+
 
 <!-- spis_tresci_end -->
 
