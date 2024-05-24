@@ -260,6 +260,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 84: Podsumowanie tygodnia z Ansible & Automations 🎉](tydzien12/dzien84.md)
 
+[Dzień 85: Integracja Ansible z Terraform 🤝](tydzien13/dzien85.md)
+
 
 <!-- spis_tresci_end -->
 
