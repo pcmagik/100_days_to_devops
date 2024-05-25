@@ -262,6 +262,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 85: Integracja Ansible z Terraform 🤝](tydzien13/dzien85.md)
 
+[Dzień 86: Dynamiczne inventory w Ansible z Terraform 🔄](tydzien13/dzien86.md)
+
 
 <!-- spis_tresci_end -->
 
