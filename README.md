@@ -266,6 +266,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 87: Automatyzacja infrastruktury i konfiguracji z Ansible i Terraform 🌐](tydzien13/dzien87.md)
 
+[Dzień 88: Zarządzanie wieloplatformową infrastrukturą z Ansible i Terraform 🌍](tydzien13/dzien88.md)
+
 
 <!-- spis_tresci_end -->
 
