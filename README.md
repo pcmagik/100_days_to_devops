@@ -268,6 +268,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 88: Zarządzanie wieloplatformową infrastrukturą z Ansible i Terraform 🌍](tydzien13/dzien88.md)
 
+[Dzień 89: Przypadki użycia i najlepsze praktyki dla Ansible i Terraform 📋](tydzien13/dzien89.md)
+
 
 <!-- spis_tresci_end -->
 
