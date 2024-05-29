@@ -270,6 +270,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 89: Przypadki użycia i najlepsze praktyki dla Ansible i Terraform 📋](tydzien13/dzien89.md)
 
+[Dzień 90: Bezpieczeństwo i compliance z Ansible i Terraform 🔐](tydzien13/dzien90.md)
+
 
 <!-- spis_tresci_end -->
 
