@@ -34,7 +34,7 @@ Zachęcamy każdego, kto chce zgłębić świat DevOps, do korzystania z tego re
 - [x] Tydzień 10 - Terraform & Proxmox
 - [x] Tydzień 11 - Terraform & Cloud
 - [x] Tydzień 12 - Ansible & Automations
-- [ ] Tydzień 13 - Ansible & Terraform
+- [x] Tydzień 13 - Ansible & Terraform
 - [ ] Tydzień 14 - Kubernetes & IaC
 - [ ] Tydzień 15 - Summary & Final Commit
 
