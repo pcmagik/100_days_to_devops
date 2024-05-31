@@ -274,6 +274,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 91: Podsumowanie tygodnia z Ansible & Terraform 🎉](tydzien13/dzien91.md)
 
+[Dzień 92: Wprowadzenie do Kubernetes 🚢](tydzien14/dzien92.md)
+
 
 <!-- spis_tresci_end -->
 
