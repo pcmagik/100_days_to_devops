@@ -272,6 +272,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 90: Bezpieczeństwo i compliance z Ansible i Terraform 🔐](tydzien13/dzien90.md)
 
+[Dzień 91: Podsumowanie tygodnia z Ansible & Terraform 🎉](tydzien13/dzien91.md)
+
 
 <!-- spis_tresci_end -->
 
