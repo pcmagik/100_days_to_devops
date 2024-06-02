@@ -1,63 +1,63 @@
-# Tydzień 1 - "DevOps & Git" 🚀
+# Tydzień 1: DevOps & Git 🚀
 
 ## Dzień 1: Wprowadzenie do DevOps 🛠️
-DevOps to kultura współpracy między 'development' i 'operations', mająca na celu szybsze dostarczanie oprogramowania. 
 
-### Zadania Zespołów:
+### Podstawy DevOps
+W dniu 1. "100 dni do DevOps" wprowadzamy podstawowe koncepcje DevOps, czyli kultury współpracy między zespołami 'development' i 'operations', która ma na celu szybsze i bardziej niezawodne dostarczanie oprogramowania.
 
-#### Development 🛠️:
-Kodowanie 💻: Tworzenie i testowanie nowych funkcji.
-CI 🔄: Automatyczne budowanie i testowanie kodu.
-Wersjonowanie 📝: Zarządzanie kodem z Git.
+### Kluczowe elementy DevOps:
+- **Automatyzacja**: Klucz do przyspieszenia procesów i minimalizacji błędów.
+- **CI/CD**: Automatyzacja budowania, testowania i wdrażania kodu.
+- **Monitorowanie**: Ciągłe monitorowanie systemów w celu szybkiego wykrywania problemów.
+- **Współpraca**: Bliska współpraca między zespołami developerskimi i operacyjnymi.
+- **Optymalizacja**: Ciągłe doskonalenie procesów i narzędzi.
 
-#### Operations 🖥️:
-Infrastruktura 🏗️: Wdrażanie i utrzymanie serwerów i baz danych.
-Monitorowanie 🔍: Śledzenie wydajności i logów.
-Bezpieczeństwo 🔐: Ochrona danych i aplikacji.
-CD 🚀: Automatyzacja wdrażania aplikacji.
+### Zadania zespołów:
 
-#### Współpraca 🤝:
-Ciągła dostawa 📦: Od kodowania po wdrożenie.
-Optymalizacja ⚙️: Usprawnianie procesów.
-Rozwiązywanie problemów 🧩: Szybka reakcja na wyzwania.
-Innowacje 💡: Poszukiwanie nowych rozwiązań.
+#### Development:
+- **Kodowanie**: Tworzenie i testowanie nowych funkcji.
+- **CI**: Automatyczne budowanie i testowanie kodu.
+- **Wersjonowanie**: Zarządzanie kodem z Git.
 
-### DevOps to przede wszystkim współpraca 🤝 i płynne granice między zadaniami.
+#### Operations:
+- **Infrastruktura**: Wdrażanie i utrzymanie serwerów i baz danych.
+- **Monitorowanie**: Śledzenie wydajności i logów.
+- **Bezpieczeństwo**: Ochrona danych i aplikacji.
+- **CD**: Automatyzacja wdrażania aplikacji.
 
-#### Kluczowe aspekty to:
-Automatyzacja 🤖: Klucz do szybkiego dostarczania.
-CI/CD 🔄: Automatyczne budowanie, testowanie i wdrażanie.
-Monitorowanie 🔍: Szybkie wykrywanie problemów.
-Współpraca 👥: Bliska współpraca między zespołami.
-Optymalizacja ⚙️: Ciągłe doskonalenie procesów.
+### Współpraca w DevOps:
+- **Ciągła dostawa**: Od kodowania po wdrożenie.
+- **Optymalizacja**: Usprawnianie procesów.
+- **Rozwiązywanie problemów**: Szybka reakcja na wyzwania.
+- **Innowacje**: Poszukiwanie nowych rozwiązań.
 
-#### Korzyści:
-Szybsze dostarczanie 🚀
-Większa stabilność 🛠️
-Lepsza jakość produktu 🏆
-Większa efektywność 💡
-Zwiększona satysfakcja klienta 😊
-DevOps to przede wszystkim ludzie i kultura współpracy. 🌱
+### Korzyści DevOps:
+- **Szybsze dostarczanie**: Przyspieszenie cyklu wdrażania.
+- **Większa stabilność**: Zmniejszenie liczby błędów.
+- **Lepsza jakość produktu**: Poprawa jakości oprogramowania.
+- **Większa efektywność**: Zwiększenie produktywności zespołów.
+- **Zwiększona satysfakcja klienta**: Lepsze zaspokojenie potrzeb użytkowników.
 
 ## Wprowadzenie do Git
-Git to niezbędne narzędzie w DevOps, umożliwiające efektywne zarządzanie kodem.
 
+Git to narzędzie do wersjonowania kodu, które jest niezbędne w praktykach DevOps, umożliwiające efektywne zarządzanie kodem źródłowym.
 
-### Kroki:
+### Kroki rozpoczęcia pracy z Git:
 
-**Instalacja Git**: Pobierz z 
+#### Instalacja Git:
+Pobierz z:
 ```
 https://git-scm.com/downloads
 ```
-lub
+lub zainstaluj za pomocą:
 ```
 winget install --id Git.Git -e --source winget
 ```
-**Konfiguracja Git**:
+
+#### Konfiguracja Git:
+Ustaw swoje dane użytkownika:
 ```
 git config --global user.name "Twoje Imię"
-```
-```
 git config --global user.email "twój.email@example.com"
 ```
 
@@ -65,22 +65,20 @@ git config --global user.email "twój.email@example.com"
 ```
 git init <nazwa-repozytorium>
 ```
+
 #### Pierwszy commit:
+Utwórz plik README.md i dodaj go do repozytorium:
 ```
-echo "# 100 dni do DevOps" >> README.md 
-```
-```
-git add README.md lub git add .
-```
-```
-git commit -m "Dodaj README.md" 
+echo "# 100 dni do DevOps" >> README.md
+git add README.md
+git commit -m "Dodaj README.md"
 ```
 
 #### Pierwszy push:
+Dodaj zdalne repozytorium i wypchnij zmiany:
 ```
 git remote add origin <adres_repozytorium>
-```
-```
 git push -u origin master
 ```
-#### 🎉 Gratulacje! Rozpocząłeś swoją podróż z Git i DevOps!
+
+🎉 Gratulacje! Rozpocząłeś swoją podróż z Git i DevOps!
