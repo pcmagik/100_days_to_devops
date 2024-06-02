@@ -18,12 +18,12 @@ topics_dict = {}
 
 # Przeszukiwanie folderów 'tydzienY' w poszukiwaniu plików 'dzienX.md'
 for tydzien_num in range(1, 16):  # 15 tygodni, z czego ostatni ma 2 dni
-    tydzien_folder_name = f"tydzien{tydzien_num}"
+    tydzien_folder_name = f"tydzien{tydzien_num:02d}"
     tydzien_folder_path = os.path.join(base_folder_path, tydzien_folder_name)
     
     dni_w_tygodniu = 7 if tydzien_num < 15 else 2  # Dla tygodnia 15, sprawdzamy tylko 2 dni
     for dzien_num in range(1, dni_w_tygodniu + 1):
-        dzien_file_name = f"dzien{dzien_num + (tydzien_num - 1) * 7}.md"
+        dzien_file_name = f"dzien{dzien_num + (tydzien_num - 1) * 7:02d}.md"
         dzien_file_path = os.path.join(tydzien_folder_path, dzien_file_name)
 
         if os.path.isfile(dzien_file_path):
