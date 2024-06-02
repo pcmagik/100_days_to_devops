@@ -278,6 +278,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 93: Podstawy konfiguracji i zarządzania klastrami Kubernetes 🛠️](tydzien14/dzien93.md)
 
+[Dzień 94: Wprowadzenie do Infrastruktury jako Kod (IaC) z Kubernetes 🌐](tydzien14/dzien94.md)
+
 
 <!-- spis_tresci_end -->
 
