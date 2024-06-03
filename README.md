@@ -280,6 +280,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 94: Wprowadzenie do Infrastruktury jako Kod (IaC) z Kubernetes 🌐](tydzien14/dzien94.md)
 
+[Dzień 95: Zaawansowane zarządzanie zasobami w Kubernetes 🌟](tydzien14/dzien95.md)
+
 
 <!-- spis_tresci_end -->
 
