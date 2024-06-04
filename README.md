@@ -284,6 +284,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 96: Automatyzacja deploymentów w Kubernetes 🚀](tydzien14/dzien96.md)
 
+[Dzień 97: Monitoring i logowanie w Kubernetes 📊](tydzien14/dzien97.md)
+
 
 <!-- spis_tresci_end -->
 
