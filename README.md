@@ -282,6 +282,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 95: Zaawansowane zarządzanie zasobami w Kubernetes 🌟](tydzien14/dzien95.md)
 
+[Dzień 96: Automatyzacja deploymentów w Kubernetes 🚀](tydzien14/dzien96.md)
+
 
 <!-- spis_tresci_end -->
 
