@@ -86,3 +86,4 @@ W dniu 97. "100 dni do DevOps" skupiamy się na znaczeniu i implementacji monito
 
 ### Podsumowanie
 Zaawansowane monitoring i logowanie w Kubernetes są fundamentem dla zapewnienia stabilności, wydajności i bezpieczeństwa środowisk kontenerowych, oferując jednocześnie cenne wglądy w działanie aplikacji. Dzięki narzędziom takim jak Prometheus, Grafana i ELK, zespoły DevOps mogą efektywnie monitorować, analizować i reagować na wszelkie problemy w klastrach Kubernetes.
+ 
