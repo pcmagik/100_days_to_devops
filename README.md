@@ -286,6 +286,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 97: Monitoring i logowanie w Kubernetes 📊](tydzien14/dzien97.md)
 
+[Dzień 98: Podsumowanie tygodnia z Kubernetes & IaC 🎉](tydzien14/dzien98.md)
+
 
 <!-- spis_tresci_end -->
 
