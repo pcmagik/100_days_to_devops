@@ -8,11 +8,11 @@
 "100 Dni do DevOps" to projekt, który ma na celu zanurzenie Cię w świecie DevOps przez praktyczne zadania, projekty i wyzwania. Każdy dzień to nowy krok w kierunku zrozumienia i umiejętnego stosowania metodologii DevOps, od automatyzacji i konteneryzacji po zarządzanie infrastrukturą i bezpieczeństwo.
 
 ## ❓Dlaczego "100 Dni do DevOps"?
-Ten projekt jest więcej niż tylko konkursem - to przygoda, która prowadzi Nas razem przez rzeczywiste wyzwania i scenariusze, jakich możesz doświadczyć w codziennej pracy DevOps. To także szansa na dołączenie do społeczności osób o podobnych zainteresowaniach, gdzie wspólnie możemy się uczyć, dzielić doświadczeniami i wspierać w rozwoju.
+Ten projekt jest więcej niż tylko udziałem w konkursie - to przygoda, która prowadzi Nas razem przez rzeczywiste wyzwania i scenariusze, jakich możesz doświadczyć w codziennej pracy DevOps. To także szansa na dołączenie do społeczności osób o podobnych zainteresowaniach, gdzie wspólnie możemy się uczyć, dzielić doświadczeniami i wspierać w rozwoju.
 
 ## 🌟 Czemu to repozytorium jest wyjątkowe?
 
-**Pierwszy w Polsce poradnik DevOps**: Jest to pierwsze repozytorium na GitHubie poświęcone DevOps, które oferuje materiały w całości w języku polskim. Naszym celem jest udostępnienie wiedzy i najlepszych praktyk z dziedziny DevOps polskojęzycznej społeczności technicznej, umożliwiając łatwiejszy dostęp do informacji i zasobów dla osób, które wolą uczyć się w swoim ojczystym języku.
+**Pierwszy w Polsce poradnik DevOps**: Jest to pierwsze repozytorium na GitHubie poświęcone DevOps, które oferuje materiały w całości w języku polskim. Moim celem jest udostępnienie wiedzy i najlepszych praktyk z dziedziny DevOps polskojęzycznej społeczności technicznej, umożliwiając łatwiejszy dostęp do informacji i zasobów dla osób, które wolą uczyć się w swoim ojczystym języku.
 
 ## 🤝 Dołącz do naszej społeczności
 
