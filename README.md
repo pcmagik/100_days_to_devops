@@ -290,6 +290,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 99: Refleksje i wnioski z podróży DevOps 🌟](tydzien15/dzien99.md)
 
+[Dzień 100: Podsumowanie podróży i planowanie dalszego rozwoju 🚀](tydzien15/dzien100.md)
+
 
 <!-- spis_tresci_end -->
 
