@@ -288,6 +288,8 @@ Aby skorzystać z materiałów zawartych w tym repozytorium na swoim komputerze,
 
 [Dzień 98: Podsumowanie tygodnia z Kubernetes & IaC 🎉](tydzien14/dzien98.md)
 
+[Dzień 99: Refleksje i wnioski z podróży DevOps 🌟](tydzien15/dzien99.md)
+
 
 <!-- spis_tresci_end -->
 
